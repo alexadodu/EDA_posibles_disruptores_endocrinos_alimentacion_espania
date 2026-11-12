@@ -1,6 +1,6 @@
 # 🧪 Lo que el etiquetado de un alimento no te dice
 
-### Análisis Exploratorio de Datos (EDA) para la detección de posibles disruptores endocrinos en la industria alimentaria
+### Análisis Exploratorio de Datos (EDA) para la detección de posibles disruptores endocrinos en la industria alimentaria en España
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
